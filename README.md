@@ -1,5 +1,5 @@
 # Task-Manager
-A simple task manager to add and delete tasks.
+A simple task management application to add and delete tasks.
 
 # Features
 - Add Task: Users can input tasks and add them to a task list.
