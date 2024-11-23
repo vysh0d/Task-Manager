@@ -18,4 +18,22 @@ A simple task manager to add and delete tasks.
 3. Input tasks in the provided field and click Add Task.
 4. To delete a task, click the Delete button next to it.
 
-#Screenshots
+# Screenshots
+![Screenshot 2024-11-23 200526](https://github.com/user-attachments/assets/1a8535de-a5fb-47d7-b506-672645c47cd8) 
+![Screenshot 2024-11-23 201430](https://github.com/user-attachments/assets/12879b2d-ab68-494b-9ff7-ec4b742d9657)
+![Screenshot 2024-11-23 201551](https://github.com/user-attachments/assets/d84ca162-2018-4a26-9887-ed06888c5540)
+![Screenshot 2024-11-23 201614](https://github.com/user-attachments/assets/086fc4b0-8872-4cca-bf45-2f0433ea54c1)
+
+# Credits
+Developed by Vaishnavi.
+GitHub - @Vysh0d
+LinkedIn - [Vaishnavi Dupparaju](https://www.linkedin.com/in/vaishnavi-dupparaju-851903339/)
+
+
+
+
+
+
+
+
+
