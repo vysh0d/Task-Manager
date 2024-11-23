@@ -26,7 +26,7 @@ A simple task management application to add and delete tasks.
 
 # Credits
 Developed by Vaishnavi.
-GitHub - @Vysh0d
+GitHub - [Vaishnavi](https:/github.com/Vysh0d/)
 LinkedIn - [Vaishnavi Dupparaju](https://www.linkedin.com/in/vaishnavi-dupparaju-851903339/)
 
 
